@@ -38,7 +38,7 @@ JSON         18 mins         ▒░░░░░░░░░░░░░░░░
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandaRezaKurniawan&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
-  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
+  <small>Languages used in my public repos - big fan of Python 😛</small>
   <br />
   <br />
 </div>
