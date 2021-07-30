@@ -62,4 +62,9 @@ JSON         18 mins         ▒░░░░░░░░░░░░░░░░
 
 📈 My Github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AnandaRezaKurniawan&show_icons=true&theme=gotham" alt="Ananda" />
+
+  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AnandaRezaKurniawan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![](https://raw.githubusercontent.com/AnandaRezaKurniawan/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/AnandaRezaKurniawan/github-stats-transparent/output/generated/languages.svg)
