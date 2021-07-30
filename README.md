@@ -1,4 +1,5 @@
-### Hey there Iam Ananda (Njaw) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi 👋, I'm itgoyo</h1>
+<h3 align="center">A passionate fullstack developer from China</h3>
 
 <a href=" discord.gg/qDghkdcv">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
