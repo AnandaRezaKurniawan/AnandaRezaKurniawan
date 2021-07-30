@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm itgoyo</h1>
-<h3 align="center">A passionate fullstack developer from China</h3>
+<h1 align="center">Hi 👋, I'm Ananda (Njaw)</h1>
+<h3 align="center">A Software Developer and UI/UX Designer </h3>
 
 <a href=" discord.gg/qDghkdcv">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
