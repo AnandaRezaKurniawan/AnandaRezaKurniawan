@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ananda (Njaw)</h1>
 <h3 align="center">A Software Developer and UI/UX Designer </h3>
 
-<a href=" discord.gg/qDghkdcv">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ananda-reza-kurniawan-2029a4196/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 <br/>
 <br/>
 Hi, i'm [Ananda Reza Kurniawan], a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
