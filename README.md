@@ -38,10 +38,6 @@ JSON         18 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-![](https://raw.githubusercontent.com/AnandaRezaKurniawan/github-stats-transparent/output/generated/languages.svg)
-
-
-
 🚧 **my task stats:**   
 🌸  Completed 7 tasks today           
 ✅  Completed 437 tasks so far           
@@ -49,8 +45,21 @@ JSON         18 mins         ▒░░░░░░░░░░░░░░░░
 <!-- TODO-IST:END -->
 
 
+- 📫 How to reach me:
+    - :octocat: [Github@AnandaRezaKurniawan](https://github.com/AnandaRezaKurniawan)
+    - :email: [anandareza1905@gmail.com](mailto:anandareza1905@gmail.com)
+    - :tv: [Youtube@ZAW_2 Channel](https://www.youtube.com/channel/UCwu81gAkZ3Ett27Q8L3Zepg/videos)
+    - :camera:[Instagram@Njaw](https://www.instagram.com/p/CF1fJhtnjafIBxwIQKkyxgHnjFBzbrktXgYHPw0/?utm_medium=copy_link)
 
 
-📈 my github stats
+- :computer: PC/Mac:
+
+    - NUC8i7HVK 64G 2TSSD Big Sur 11.2 + Win10
+    - MacBookPro2015
+    - i7-6700k 32G 256SSD+4T RX590 MacOS Big Sur 11.1
+    - i5-4590  16G 1TSSD RX570 MacOS Catalina 10.15.7
+
+
+📈 My Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AnandaRezaKurniawan&show_icons=true&theme=gotham" alt="Ananda" />
