@@ -38,6 +38,9 @@ JSON         18 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
+![](https://raw.githubusercontent.com/AnandaRezaKurniawan/github-stats-transparent/output/generated/languages.svg)
+
+
 
 🚧 **my task stats:**   
 🌸  Completed 7 tasks today           
