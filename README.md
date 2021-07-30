@@ -27,14 +27,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-PYTHON       22 hrs 18 mins  ███████████████████████▒░   92.80 % 
-Java         1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-CSS          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-```
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandaRezaKurniawan&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
