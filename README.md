@@ -34,20 +34,18 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-PYTHON       28 hrs 18 mins  ███████████████████████▒░   92.80 % 
-JavaScript   1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-SCSS         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+PYTHON       22 hrs 18 mins  ███████████████████████▒░   92.80 % 
+Java         1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+CSS          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 <!--END_SECTION:waka-->
 
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,936 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 663 tasks so far           
-⏳  Longest streak is 10 days
+🚧 **my task stats:**   
+🌸  Completed 7 tasks today           
+✅  Completed 437 tasks so far           
+⏳  Longest streak is 16 days
 <!-- TODO-IST:END -->
 
 
