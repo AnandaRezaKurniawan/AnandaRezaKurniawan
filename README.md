@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ananda (Njaw)</h1>
-<h3 align="center">A Software Developer and UI/UX Designer </h3>
+<h3 align="center">A Web Developer and UI/UX Designer </h3>
 
 <br/>
 <br/>
-Hi, i'm [Ananda Reza Kurniawan], a passionate self-taught full stack Web Developer and UI/UX Designer from Indonesia. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm Ananda Reza Kurniawan, a passionate self-taught full stack Web Developer and UI/UX Designer from Indonesia. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
