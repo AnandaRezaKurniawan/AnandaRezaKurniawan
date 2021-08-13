@@ -53,12 +53,14 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     - MacBookPro2015
     - i7-6700k 32G 256SSD+4T RX590 MacOS Big Sur 11.1
     - i5-4590  16G 1TSSD RX570 MacOS Catalina 10.15.7
-
-
-📈 My Github Stats
-
-
+ 
  </br>
+
+ 
+ 📈 My Github Stats
+
+
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AnandaRezaKurniawan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <div>
