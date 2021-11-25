@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananda (Njaw)</h1>
 <h3 align="center">A Web Developer and UI/UX Designer </h3>
-<i class="bi bi-bootstrap"></i>
 
 <br/>
 <br/>
